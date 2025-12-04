@@ -49,7 +49,7 @@ print(predict("path_to_image.jpg"))
 from src.gradcam import get_gradcam
 import matplotlib.pyplot as plt
 
-cam, img, label = get_gradcam("data/reimu/example.jpg")
+cam, img, label = get_gradcam("data/cirno/example.jpg/jpeg")
 plt.imshow(img)
 plt.imshow(cam, cmap='jet', alpha=0.4)
 plt.axis("off")
