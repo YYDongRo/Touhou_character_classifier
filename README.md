@@ -62,9 +62,11 @@ streamlit run app.py
 ```
 
 *Here are some examples of heatmap using Grad-CAM*:
-
+**博丽灵梦**
 ![Hakurei Reimu Grad-CAM](grad-cam_examples/Figure_Reimu_001.png)
+**雾雨魔理沙**
 ![Kirisame Marisa Grad-CAM](grad-cam_examples/Figure_Marisa_003.png)
+**琪露诺**
 ![Cirno Grad-CAM](grad-cam_examples/Figure_Cirno_011.png)
 
 
